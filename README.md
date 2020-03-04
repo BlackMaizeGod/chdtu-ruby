@@ -1,1 +1,0 @@
-# chdtu-ruby
